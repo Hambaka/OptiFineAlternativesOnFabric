@@ -1,6 +1,6 @@
 # Fabric端一些推荐的OptiFine替代品
-本文为随缘渣翻，将原文翻译后搬运到自己的github repo已获得原作者LambdAurora许可。
 原文：[Recommended OptiFine alternatives on Fabric by LambdAurora](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754)
+本文为随缘渣翻，将原文翻译后搬运到自己的github repo已获得原作者LambdAurora许可。
 
 # 缘由
 
@@ -37,7 +37,7 @@ OptiFine本来是个非常不错的Mod，在早期的时候，它的很多功能
 
 **从1.16.2-pre1开始，原版的“辅助功能设置”添加了相关选项。如果你玩的是1.16.2-pre1或者更高的版本，就不用关注下列的Mod了**
 
-Those are client-only mod that prevents Minecraft from changing the FOV in all situations.
+这些是客户端Mod，避免Minecraft在所有情况下更改FOV。 (比如喝了迅捷药水之后的速度状态)
 
 - [motioNO](https://www.curseforge.com/minecraft/mc-mods/motiono) - 关闭动态FOV.
 - [FovLock](https://github.com/ChloeDawn/FovLock) - 添加了动态FOV锁定按钮.
