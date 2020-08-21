@@ -21,8 +21,8 @@ OptiFine本来是个非常不错的Mod，在早期的时候，它的很多功能
 - [Colormatic][colormatic] - 自定义颜色
 - [LambDynamicLights][ldl] - 动态光源
 - [Soaring Clouds][soaring_clouds] - 可配置云层高度
-- [ItemNbtModels][inm] - 自定义物品模型 (不支持OptiFine的格式)
-- [Varied Mob Textures][vmt] - 随机实体材质 (使用其特有的格式，目前不打算兼容OptiFine格式)
+- [ItemNbtModels][inm] - 自定义物品模型 (虽然使用其特有的格式，但是也支持OptiFine的格式)
+- [Varied Mob Textures][vmt] - 随机实体材质 (使用其特有的格式，目前不打算兼容OptiFine的格式)
 - [Dark Loading Screen][dls] - 加载界面的默认背景色改为暗色，但是和OptiFine一样支持自定义的颜色。
 
 [cbt]: https://www.curseforge.com/minecraft/mc-mods/connected-block-textures "Connected Block Textures的CurseForge页面"
@@ -41,10 +41,12 @@ OptiFine本来是个非常不错的Mod，在早期的时候，它的很多功能
 - [Sodium] - 性能优化 [(甚至比OptiFine优秀)](https://youtu.be/0fAB6pJK6U4) 不过没有"高品质"选项 (如果想要"高品质"选项可以试试Canvas Renderer)
 - [Canvas Renderer][canvas] - 着色器与性能优化
 - [Cull Particles][cull_particles] - 如果已经安装了Sodium，就不需要安装本Mod了。
+- [Dynamic FPS] - 游戏窗口处于非活动状态时，减少每秒渲染的帧数，降低CPU/GPU的使用率。
 
 [Sodium]: https://www.curseforge.com/minecraft/mc-mods/sodium "Sodium的CurseForge页面"
 [canvas]: https://www.curseforge.com/minecraft/mc-mods/canvas-renderer "Canvas的CurseForge页面"
 [cull_particles]: https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric "Cull Particles的CurseForge页面"
+[Dynamic FPS]: https://www.curseforge.com/minecraft/mc-mods/dynamic-fps "Dynamic FPS的CurseForge页面"
 
 ### 通用
 
@@ -66,17 +68,25 @@ OptiFine本来是个非常不错的Mod，在早期的时候，它的很多功能
 [motioNO]: https://www.curseforge.com/minecraft/mc-mods/motiono "MotioNo的CurseForge页面"
 [FovLock]: https://github.com/ChloeDawn/FovLock "FovLock的GitHub页面"
 
-## 开启/关闭迷雾
+## 迷雾
 
 - [Sodium] 可以开关主世界地形的迷雾。
 - [ClearView](https://www.curseforge.com/minecraft/mc-mods/clearview)
 - [NoFog](https://www.curseforge.com/minecraft/mc-mods/nofog)
+- [CustomFog](https://www.curseforge.com/minecraft/mc-mods/custom-fog)
 
 ## 视野放大
 
 - [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
 - [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
 - [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)
+
+## 其他
+
+- [Overworld Two] 新增一种世界生成，优化主世界和下界的世界生成速度。速度比原版快很多，但是生成的世界和原版并非完全一致。
+
+[Overworld Two]: https://www.curseforge.com/minecraft/mc-mods/overworld-two "Overworld Two的CurseForge页面"
+
 
 # 暂无此类功能的替代品
 
