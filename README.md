@@ -20,20 +20,24 @@ OptiFine本来是个非常不错的Mod，在早期的时候，它的很多功能
   - 若要修复玻璃板底部或顶部的视觉效果的问题，请访问该[链接][cbt_glass_panes]
 - [Colormatic][colormatic] - 自定义颜色
 - [LambDynamicLights][ldl] - 动态光源
+- [LambdaBetterGrass] - 更好的草地和更好的雪地。
 - [Raised Clouds][raised_clouds] & [Soaring Clouds][soaring_clouds] - 可配置云层高度
 - [ItemNbtModels][inm] - 自定义物品模型 (虽然使用其特有的格式，但是也支持OptiFine的格式)
 - [Varied Mob Textures][vmt] - 随机实体材质 (使用其特有的格式，目前不打算兼容OptiFine的格式)
 - [Dark Loading Screen][dls] - 加载界面的默认背景色改为暗色，但是和OptiFine一样支持自定义的颜色。
+- [Transparent] - 可以在资源包添加相应的配置文件更改画和各种方块的渲染方式，比如画可以应用透明材质，方块也可以选择是否应用玻璃连接面的渲染方式等等。
 
 [cbt]: https://www.curseforge.com/minecraft/mc-mods/connected-block-textures "Connected Block Textures的CurseForge页面"
 [cbt_glass_panes]: https://github.com/Nuclearfarts/connected-block-textures/issues/1 "Connected Block Textures玻璃板修复资源包"
 [colormatic]: https://www.curseforge.com/minecraft/mc-mods/colormatic "Colormatic的CurseForge页面"
 [ldl]: https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights "LambDynamicLights的CurseForge页面"
+[LambdaBetterGrass]: https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass "LambdaBetterGrass的CurseForge页面"
 [raised_clouds]: https://www.curseforge.com/minecraft/mc-mods/raised-clouds "Raised Clouds的CurseForge页面"
 [soaring_clouds]: https://www.curseforge.com/minecraft/mc-mods/soaring-clouds "Soaring Clouds的CurseForge页面"
 [inm]: https://github.com/Linguardium/ItemNbtModels/releases "ItemNbtModels的GitHub页面"
 [vmt]: https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures "Varied Mob Textures的CurseForge页面"
 [dls]: https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen "Dark Loading Screen的CurseForge页面"
+[Transparent]: https://www.curseforge.com/minecraft/mc-mods/transparent "Transparent的CurseForge页面"
 
 ## 性能优化类
 
